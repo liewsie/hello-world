@@ -1,2 +1,5 @@
 # hello-world
-This is first day Github training
+
+Hi niece and newpew,
+This is a my first github projects.
+Nice to meet everyone of you~
